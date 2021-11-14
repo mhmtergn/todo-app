@@ -1,6 +1,7 @@
 # todo_app
 
 A new Flutter project.
+Provider and Shared Preferences used in this project.
 
 ## Getting Started
 
